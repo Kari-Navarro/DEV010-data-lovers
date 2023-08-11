@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+    display: flex;
+    min-height: 250px;
+    margin: 10px;
+    }
+
+
+
+    @media (max-width:414px) {
+        header{flex-direction: column;}
+        
+    }
+    
+
+
